@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["welcome","obsidian","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome/","tags":["welcome","obsidian","gardenEntry"]}
 ---
 
 # Welcome
@@ -9,3 +9,6 @@ Make a note of something, [[create a link\|create a link]], or try [the Importer
 
 When you're ready, delete this note and make the vault your own.
 Раптово з'являється [[Як щодо сторінки кирилицею?\|Як щодо сторінки кирилицею?]] на сторінку кирилицею.
+
+
+[[Fluent-bit pods "X" not found\|Fluent-bit pods "X" not found]]
