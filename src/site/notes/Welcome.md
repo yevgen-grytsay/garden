@@ -11,4 +11,4 @@ When you're ready, delete this note and make the vault your own.
 Раптово з'являється [[Як щодо сторінки кирилицею?\|Як щодо сторінки кирилицею?]] на сторінку кирилицею.
 
 
-[[Fluent-bit pods "X" not found\|Fluent-bit pods "X" not found]]
+[[Fluent-bit pods X not found\|Fluent-bit pods X not found]]
