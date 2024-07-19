@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["welcome","obsidian","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome/","tags":["welcome","obsidian","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 # Welcome
-[[Fluent-Bit\|Fluent-Bit]]
+[[Kubernetes/Fluent-Bit\|Fluent-Bit]]
 
 This is your new *vault*.
 
@@ -13,4 +13,4 @@ When you're ready, delete this note and make the vault your own.
 Раптово з'являється [[Як щодо сторінки кирилицею?\|Як щодо сторінки кирилицею?]] на сторінку кирилицею.
 
 
-[[Fluent-bit pods X not found\|Fluent-bit pods X not found]]
+[[Kubernetes/Fluent-bit pods X not found\|Fluent-bit pods X not found]]
