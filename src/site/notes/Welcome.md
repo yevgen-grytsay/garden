@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["welcome","obsidian","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome/","tags":["welcome","obsidian","gardenEntry"]}
 ---
 
 # Welcome
+[[Kubernetes\|Kubernetes]]
 [[Kubernetes/Fluent-Bit\|Fluent-Bit]]
 
 This is your new *vault*.
