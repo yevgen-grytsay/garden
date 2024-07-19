@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fluent-bit-konfiguracziya-logiv-dlya-flux-cd/","tags":["fluent-bit","monitoring","kubernetes"]}
+{"dg-publish":true,"permalink":"/fluent-bit-konfiguracziya-logiv-dlya-flux-cd/","tags":["fluent-bit","monitoring","kubernetes","grafana","logs","observability"]}
 ---
 
 
