@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/fluent-bit/","tags":["fluent-bit","monitoring","kubernetes"]}
+{"dg-publish":true,"permalink":"/kubernetes/fluent-bit/","tags":["fluent-bit","monitoring","kubernetes","observability"]}
 ---
+
+Дозволяє, серед іншого, збирати логи та івенти з [[Kubernetes\|Kubernetes]]
 
 
 [[Kubernetes/Fluent-bit конфігурація логів для FluxCD\|Fluent-bit конфігурація логів для FluxCD]]
