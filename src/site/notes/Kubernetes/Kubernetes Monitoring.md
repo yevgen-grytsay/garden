@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/kubernetes-monitoring/"}
+{"dg-publish":true,"permalink":"/kubernetes/kubernetes-monitoring/","tags":["kubernetes","monitoring","tools","observability"]}
 ---
 
 
