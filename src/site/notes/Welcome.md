@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["welcome","obsidian","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome/","tags":["welcome","obsidian","gardenEntry"]}
 ---
 
 # Welcome
 [[Kubernetes\|Kubernetes]]
 [[Kubernetes/Fluent-Bit\|Fluent-Bit]]
 [[Monitoring Tools\|Monitoring Tools]]
+[[Security\|Security]]
 
 This is your new *vault*.
 
