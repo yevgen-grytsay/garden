@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["welcome","obsidian","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome/","tags":["welcome","obsidian","gardenEntry"]}
 ---
 
 # Welcome
@@ -7,6 +7,7 @@
 [[Kubernetes/Fluent-Bit\|Fluent-Bit]]
 [[Monitoring Tools\|Monitoring Tools]]
 [[Security\|Security]]
+[[JavaScript Testing Tools\|JavaScript Testing Tools]]
 
 This is your new *vault*.
 
