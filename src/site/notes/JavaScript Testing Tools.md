@@ -11,6 +11,9 @@
 ## Mocking
 - [Mock Service Worker](https://mswjs.io/)
 - fetch-mock
+## Linters, formatters etc
+- ESLint
+- Prettier
 ## ?
 - [Testing Library](https://testing-library.com/)
 - Enzyme
