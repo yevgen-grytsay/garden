@@ -8,6 +8,7 @@
 [[Monitoring Tools\|Monitoring Tools]]
 [[Security\|Security]]
 [[JavaScript Testing Tools\|JavaScript Testing Tools]]
+[[PHP Tools\|PHP Tools]]
 
 This is your new *vault*.
 
