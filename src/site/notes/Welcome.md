@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["welcome","obsidian","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome/","tags":["welcome","obsidian","gardenEntry"]}
 ---
 
 # Welcome
@@ -9,6 +9,7 @@
 [[Security\|Security]]
 [[JavaScript Testing Tools\|JavaScript Testing Tools]]
 [[PHP Tools\|PHP Tools]]
+[[GoLang\|GoLang]]
 
 This is your new *vault*.
 
