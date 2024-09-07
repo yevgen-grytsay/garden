@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["welcome","obsidian","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome/","tags":["welcome","obsidian","gardenEntry"]}
 ---
 
 # Welcome
+[[Web Development\|Web Development]]
 [[Kubernetes\|Kubernetes]]
 [[Kubernetes/Fluent-Bit\|Fluent-Bit]]
 [[Monitoring Tools\|Monitoring Tools]]
