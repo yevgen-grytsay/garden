@@ -25,5 +25,6 @@ controllers:
   resource:
     path: '../../src/Controller/{*Controller.php}'
     namespace: App\Controller
+  exclude: '../../src/Controller/{Alice,Bob}'
   type: attribute
 ```
