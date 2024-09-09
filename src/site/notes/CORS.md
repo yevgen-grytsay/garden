@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cors/","tags":["web","cors"]}
+{"dg-publish":true,"permalink":"/cors/","tags":["cors","webdev"]}
 ---
 
 

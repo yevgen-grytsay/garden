@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["welcome","obsidian","gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome/","tags":["welcome","obsidian","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 # Welcome
