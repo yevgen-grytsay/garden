@@ -28,3 +28,21 @@ controllers:
   exclude: '../../src/Controller/{Alice,Bob}'
   type: attribute
 ```
+## Rendering Templates
+Щоб рендерити HTML, треба
+- `composer require symfony/twig-bundle`
+- `MyController extends Symfony\Bundle\FrameworkBundle\Controller\AbstractController`
+- `templates/index.html.twig`
+- `return $this->render('index.html.twig');`
+- `config/packages/framework.yaml`
+```yaml
+# see https://symfony.com/doc/current/reference/configuration/framework.html  
+framework:  
+  secret: '%env(APP_SECRET)%'
+```
+
+## `controller.service_arguments`
+```
+InvalidArgumentException: "The controller for URI "/" is not callable: Controller "App\Controller\HomeController" cannot be fetched from the container because it is private. Did you forget to tag the service with "controller.service_arguments"?" at ControllerResolver.php line 97
+```
+https://symfony.com/doc/current/controller/service.html
